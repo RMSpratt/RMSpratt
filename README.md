@@ -4,19 +4,10 @@ Hi 👋 My name is Reed Spratt
 QA Contractor & Software Developer
 ----------------------------------
 I am currently working for Supersocial Inc. as a QA tester. In my spare time, I am often researching and experimenting with new technologies.
-
-My primary tech interests include:
-- AI Character design and development
-- Game design
-- Game development
-- Tools development
-- Quality Assurance
-- Software testing
+I have a strong interest in researching and working on AI techniques for games, particularly related to optimization and character design.
 
 * 🌍  I'm based in London, ON
 * ✉️  You can contact me at [reedspratt8@gmail.com](mailto:reedspratt8@gmail.com)
-* 🧠  I'm learning FMod
-* ⚡  I also make music sometimes
 
 ### Skills
 <p align="left">
