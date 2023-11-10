@@ -1,7 +1,7 @@
 Hi 👋 My name is Reed Spratt
 ============================
 
-QA Contractor & Software Developer
+QA Contractor & Freelance Game Programmer
 ----------------------------------
 I am currently working for Supersocial Inc. as a QA tester. In my spare time, I am often researching and experimenting with new technologies.
 I have a strong interest in researching and working on AI techniques for games, particularly related to optimization and character design.
