@@ -1,10 +1,17 @@
 Hi 👋 My name is Reed Spratt
 ============================
 
-QA Contractor & Freelance Game Programmer
+QA Contractor & Freelance Game Developer
 ----------------------------------
-I am currently working for Supersocial Inc. as a QA tester. In my spare time, I am often researching and experimenting with new technologies.
-I have a strong interest in researching and working on AI techniques for games, particularly related to optimization and character design.
+I am currently working for Supersocial Inc. as a contractor QA tester. In my spare time, I work on Unity and Roblox-based projects and games.
+
+Research & Project Interests:
+- Desigining Realistic AI Characters for Games
+- Building Collabroative Techniques for AI Agents
+- Studying Game Design & Player UX
+- Creating Editor Tools for Game Development
+- Programming Game Audio
+- Testing Software & Games
 
 * 🌍  I'm based in Ontario, Canada
 * ✉️  You can contact me at [reedspratt8@gmail.com](mailto:reedspratt8@gmail.com)
