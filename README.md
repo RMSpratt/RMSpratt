@@ -5,13 +5,20 @@ QA Contractor & Freelance Game Developer
 ----------------------------------
 I am currently working for Supersocial Inc. as a contractor QA tester. In my spare time, I work on Unity and Roblox-based projects and games.
 
-Research & Project Interests:
-- Desigining Realistic AI Characters for Games
-- Building Collabroative Techniques for AI Agents
-- Studying Game Design & Player UX
-- Creating Editor Tools for Game Development
-- Programming Game Audio
-- Testing Software & Games
+Research Interests:
+- Realistic Character AI in Games
+- Collaborative Techniques for AI Agents
+- Game Design & Player UX Best Practices
+
+Project Interests:
+- Designing Reusable AI Frameworks
+- Designing Reusable Game System Frameworks
+- Building Editor Tools for Unity
+- Building Plugins for Roblox
+- Implementing Dynamic Music in Games
+
+A short selection of my work can be found in the customized pins on this profile. 
+I am working on creating a portfolio to showcase some of my private works and on-going projects.
 
 * 🌍  I'm based in Ontario, Canada
 * ✉️  You can contact me at [reedspratt8@gmail.com](mailto:reedspratt8@gmail.com)
