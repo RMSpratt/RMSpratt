@@ -21,7 +21,7 @@ A short selection of my work can be found in the customized pins on this profile
 I am working on creating a portfolio to showcase some of my private works and on-going projects.
 
 * 🌍  I'm based in Ontario, Canada
-* ✉️  You can contact me at [reedspratt8@gmail.com](mailto:reedspratt8@gmail.com)
+* ✉️  You can contact me at [reedsprattdev@gmail.com](mailto:reedsprattdev@gmail.com)
 
 ### Skills
 <p align="left">
